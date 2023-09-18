@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="30">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/keremaktas39">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30">
+    <img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg](https://ico.vercel.app/linkedin/aaa)" alt="LinkedIn" height="30" width="30">
   </a>
 </p>
 
