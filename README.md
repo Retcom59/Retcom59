@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kerem</h1>
-<h3 align="center">Frontend Dev with Backend Dreams</h3>
+<h3 align="left">Frontend Dev with Backend Dreams</h3>
 
 
 - I’m currently learning **React, Node.js and Databases**
