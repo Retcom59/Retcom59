@@ -28,7 +28,5 @@
 </div>
 
 
-![Kerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Retcom59&show_icons=true&theme=github_dark)
-
 
 
