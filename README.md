@@ -12,11 +12,12 @@
   </div>
   
  
-  <div style="flex: 1;">
+  <div style="flex: 2;">
+    <h3 align="left">Connect with me:</h3>
  <p align="left">
  <a href="mailto:keremaktas24@outlook.com">
     <img src="https://simpleicons.vercel.app/microsoftoutlook/aaa" alt="Email" height="30" width="30">
-  </a>&nbsp;&nbsp;
+  </a>;
   <a href="https://www.linkedin.com/in/keremaktas39">
     <img src="https://ico.vercel.app/linkedin/aaa" alt="LinkedIn" height="30" width="30">
   </a>
