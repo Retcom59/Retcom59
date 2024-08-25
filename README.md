@@ -10,7 +10,7 @@
     <h3 align="left">Connect with me:</h3>
  <p align="left">
  <a href="mailto:keremaktas24@outlook.com">
-    <img src="https://simpleicons.vercel.app/microsoftoutlook/aaa" alt="Email" height="30" width="30">
+    <img src="https://simpleicons.vercel.app/gmail/000" alt="Email" height="30" width="30">
   </a>
   <a href="https://www.linkedin.com/in/keremaktas39">
     <img src="https://ico.vercel.app/linkedin/aaa" alt="LinkedIn" height="30" width="30">
