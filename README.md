@@ -1,8 +1,7 @@
 
-<h3 align="left">Frontend Dev with Backend Dreams</h3>
+<h3 align="left">Dev</h3>
 
 
-- I’m currently learning **React, Node.js and Databases**
 
 <div style="display: flex; justify-content: space-between;">
 
